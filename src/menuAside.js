@@ -72,13 +72,13 @@ export default [
     ]
   },
   {
-    href: 'https://github.com/justboil/admin-one-vue-tailwind',
+    href: 'https://github.com/noErrdev/Vue-Dash-Frontend-for-Laravel',
     label: 'GitHub',
     icon: mdiGithub,
     target: '_blank'
   },
   {
-    href: 'https://github.com/justboil/admin-one-react-tailwind',
+    href: 'https://github.com/noErrdev/Vue-Dash-Frontend-for-Laravel',
     label: 'React version',
     icon: mdiReact,
     target: '_blank'
