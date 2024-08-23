@@ -70,14 +70,14 @@ export default [
     icon: mdiGithub,
     label: 'GitHub',
     isDesktopNoLabel: true,
-    href: 'https://github.com/justboil/admin-one-vue-tailwind',
+    href: 'https://github.com/noErrdev/Vue-Dash-Frontend-for-Laravel',
     target: '_blank'
   },
   {
     icon: mdiReact,
     label: 'React version',
     isDesktopNoLabel: true,
-    href: 'https://github.com/justboil/admin-one-react-tailwind',
+    href: 'https://github.com/noErrdev/Vue-Dash-Frontend-for-Laravel',
     target: '_blank'
   },
   {
